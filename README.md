@@ -1,4 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# Date: 28/08/26
+# Name: VIDHYA SHREE K
+# REG NO: 212225230296
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
